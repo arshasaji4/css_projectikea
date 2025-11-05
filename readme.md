@@ -1,6 +1,8 @@
 ## 🏠 IKEA Front-End Website Clone
 This project is a front-end clone of the IKEA India website, built using HTML, Tailwind CSS, and Font Awesome.
 It focuses on responsive design, clean layout, and modern UI elements that resemble IKEA’s real online store.
+## css project
+[live@](https://arshaikea.netlify.app/)
 
 ## 🚀 Features
 
